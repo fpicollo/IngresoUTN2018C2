@@ -12,7 +12,7 @@ function mostrarAumento()
 
     num1 = parseInt(num1);
 
-    num2 = 1.10;
+    num2 = 1.1;
 
     num2 = parseFloat(num2);
 
