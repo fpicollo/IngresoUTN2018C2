@@ -1,8 +1,17 @@
 function mostrar()
 {
 
-	var contador=0;
+	var contador=1;
 	var acumulador=0;
+	var numero=0;
+
+	while (contador <= 5){
+		 numero = parseInt(prompt("Ingrese un numero"))
+	acumulador = acumulador + numero 
+
+	contador++
+		
+	}
 
 
 
